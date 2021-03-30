@@ -1,0 +1,1 @@
+{:lint-as {com.fulcrologic.guardrails.core/>defn clojure.core/defn}}
